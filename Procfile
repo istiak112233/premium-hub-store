@@ -1,0 +1,1 @@
+web: python premium_shop_bot_v24_3_binance_multichain.py
